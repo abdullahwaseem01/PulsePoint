@@ -7,7 +7,7 @@ Surveillance systems serve an important role in modern civilization, providing a
 The PulsePoint system is a collection of services designed to manage cameras, users, video storage, and video analytics. It enables users to efficiently handle video feeds, perform analytics, and access a user-friendly frontend.
 
 ### Research Paper 
-- [Revolutionizing Surveillance Technology with Distributed Systems](./Revolutionizing Surveillance Technology with Distributed Systems.pdf)
+- [Revolutionizing Surveillance Technology with Distributed Systems](./Revolutionizing-Surveillance-Technology-with-Distributed-Systems.pdf)
 ### Services
 
 #### Camera Management Service
