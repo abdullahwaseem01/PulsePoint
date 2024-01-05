@@ -50,7 +50,7 @@ The user interface to interact with the entire system. It depends on all the oth
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/ahmaad-ansari/PulsePoint.git
+git clone https://github.com/abdullahwaseem01/PulsePoint.git
 cd pulsepoint
 ```
 
